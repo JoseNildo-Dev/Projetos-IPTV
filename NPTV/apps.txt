@@ -1,0 +1,215 @@
+AppFix(
+	id = "1",
+	displayName = "B2P Hibrido",
+	packageName = "com.b2p.hibrido.player",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.b2p.hibrido.player;component=com.b2p.hibrido.player/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.b2p.hibrido.player;component=com.b2p.hibrido.player/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "2",
+	displayName = "Droid Smarters Pro",
+	packageName = "com.droidsmarterspro.droidsmartersproiptvbox",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.droidsmarterspro.droidsmartersproiptvbox;component=com.droidsmarterspro.droidsmartersproiptvbox/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.droidsmarterspro.droidsmartersproiptvbox;component=com.droidsmarterspro.droidsmartersproiptvbox/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "3",
+	displayName = "Duo Pro",
+	packageName = "com.xc.ANSpanels",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.xc.ANSpanels;component=com.xc.ANSpanels/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.xc.ANSpanels;component=com.xc.ANSpanels/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "4",
+	displayName = "IPTV Blink Player",
+	packageName = "com.iptvBlinkPlayer",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.iptvBlinkPlayer;component=com.iptvBlinkPlayer/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.iptvBlinkPlayer;component=com.iptvBlinkPlayer/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "5",
+	displayName = "IPTV BLINK PLAYER",
+	packageName = "com.iptvBlinkPlayer",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.iptvBlinkPlayer;component=com.iptvBlinkPlayer/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.iptvBlinkPlayer;component=com.iptvBlinkPlayer/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "6",
+	displayName = "MULTIFLIX Lite",
+	packageName = "com.plexys.lite",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.plexys.lite;component=com.plexys.lite/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.plexys.lite;component=com.plexys.lite/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "7",
+	displayName = "NEW MAIS 6.1",
+	packageName = "br.topsystem.newmais2",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=br.topsystem.newmais2;component=br.topsystem.newmais2/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=br.topsystem.newmais2;component=br.topsystem.newmais2/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "8",
+	displayName = "NP TV",
+	packageName = "com.xapp.nptv",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.xapp.nptv;component=com.xapp.nptv/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.xapp.nptv;component=com.xapp.nptv/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "9",
+	displayName = "NP Cine",
+	packageName = "top.npcine",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=top.npcine;component=top.npcine/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=top.npcine;component=top.npcine/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "10",
+	displayName = "NPTV Lite",
+	packageName = "com.plexys.lite",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.plexys.lite;component=com.plexys.lite/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.plexys.lite;component=com.plexys.lite/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "11",
+	displayName = "P2Braz",
+	packageName = "com.p2five.tv",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.p2five.tv;component=com.p2five.tv/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.p2five.tv;component=com.p2five.tv/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "12",
+	displayName = "PopCorn Lite",
+	packageName = "com.popcorn.liteapp",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.popcorn.liteapp;component=com.popcorn.liteapp/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.popcorn.liteapp;component=com.popcorn.liteapp/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "13",
+	displayName = "RARO OTT",
+	packageName = "com.veloznet.stbapp",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.veloznet.stbapp;component=com.veloznet.stbapp/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.veloznet.stbapp;component=com.veloznet.stbapp/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "14",
+	displayName = "Raro Lite",
+	packageName = "com.plexys.raro",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.plexys.raro;component=com.plexys.raro/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.plexys.raro;component=com.plexys.raro/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "15",
+	displayName = "Spotify",
+	packageName = "com.spotify.music",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.spotify.music;component=com.spotify.music/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.spotify.music;component=com.spotify.music/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "16",
+	displayName = "TDHome TV",
+	packageName = "com.shtvreb.hometv",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.shtvreb.hometv;component=com.shtvreb.hometv/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.shtvreb.hometv;component=com.shtvreb.hometv/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "17",
+	displayName = "QuickSupport",
+	packageName = "com.teamviewer.quicksupport.market",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.teamviewer.quicksupport.market;component=com.teamviewer.quicksupport.market/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.teamviewer.quicksupport.market;component=com.teamviewer.quicksupport.market/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "18",
+	displayName = "Thunder Lite",
+	packageName = "com.plexys.lite",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.plexys.lite;component=com.plexys.lite/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.plexys.lite;component=com.plexys.lite/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "19",
+	displayName = "ViMusic",
+	packageName = "it.vfsfitvnm.vimusic",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=it.vfsfitvnm.vimusic;component=it.vfsfitvnm.vimusic/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=it.vfsfitvnm.vimusic;component=it.vfsfitvnm.vimusic/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "20",
+	displayName = "XCIPTV",
+	packageName = "com.nathnetwork.xciptv",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.nathnetwork.xciptv;component=com.nathnetwork.xciptv/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.nathnetwork.xciptv;component=com.nathnetwork.xciptv/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "21",
+	displayName = "Home TV",
+	packageName = "com.brstore.hometv",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.brstore.hometv;component=com.brstore.hometv/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.brstore.hometv;component=com.brstore.hometv/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "22",
+	displayName = "YesTV Beta",
+	packageName = "com.yestv.beta",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.yestv.beta;component=com.yestv.beta/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.yestv.beta;component=com.yestv.beta/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "23",
+	displayName = "AnyDesk",
+	packageName = "com.anydesk.anydeskandroid",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.anydesk.anydeskandroid;component=com.anydesk.anydeskandroid/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.anydesk.anydeskandroid;component=com.anydesk.anydeskandroid/.ui.Splah;end"
+),
+
+
+AppFix(
+	id = "24",
+	displayName = "Jellyfin",
+	packageName = "org.jellyfin.androidtv",
+	launchIntentUriDefault = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=org.jellyfin.androidtv;component=org.jellyfin.androidtv/.ui.Splah;end",
+	launchIntentUriLeanback = "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=org.jellyfin.androidtv;component=org.jellyfin.androidtv/.ui.Splah;end"
+),
+

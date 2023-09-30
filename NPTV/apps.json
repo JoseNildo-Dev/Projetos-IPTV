@@ -1,0 +1,219 @@
+{ "apps": [
+  {
+    "app_name": "B2P Hibrido",
+    "package_name": "com.b2p.hibrido.player",
+    "version_name": "2.0",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/B2P Android - Purple (2.0).apk",
+    "sha256": "af6f9017b67b716442f0b2949040b8b552290d95d33ef5f07cef77ba5c468742",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.b2p.hibrido.player;component=com.b2p.hibrido.player/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.b2p.hibrido.player;component=com.b2p.hibrido.player/.ui.Splah;end"
+  },
+  {
+    "app_name": "Droid Smarters Pro",
+    "package_name": "com.droidsmarterspro.droidsmartersproiptvbox",
+    "version_name": "3.0",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/Droid Smarters Pro(3.0).apk",
+    "sha256": "d728cc6d60d34a7858708f0f4d372665dc18861bb7b16cca4aa6e6fbeb0d3d51",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.droidsmarterspro.droidsmartersproiptvbox;component=com.droidsmarterspro.droidsmartersproiptvbox/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.droidsmarterspro.droidsmartersproiptvbox;component=com.droidsmarterspro.droidsmartersproiptvbox/.ui.Splah;end"
+  },
+  {
+    "app_name": "Duo Pro",
+    "package_name": "com.xc.ANSpanels",
+    "version_name": "5.0.1",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/Duo Pro.apk",
+    "sha256": "35e8cd54484bb0be15ac13357645ac279174bdf013d5aa005f6612db2e244861",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.xc.ANSpanels;component=com.xc.ANSpanels/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.xc.ANSpanels;component=com.xc.ANSpanels/.ui.Splah;end"
+  },
+  {
+    "app_name": "IPTV Blink Player",
+    "package_name": "com.iptvBlinkPlayer",
+    "version_name": "2.0.7",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/IPTV BLINK PLAYER 2023.apk",
+    "sha256": "6a5614f1ee6da2f0d41520ee14de290f8b664c698eeaa613abfbc0a0b8134d3a",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.iptvBlinkPlayer;component=com.iptvBlinkPlayer/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.iptvBlinkPlayer;component=com.iptvBlinkPlayer/.ui.Splah;end"
+  },
+  {
+    "app_name": "IPTV BLINK PLAYER",
+    "package_name": "com.iptvBlinkPlayer",
+    "version_name": "1.2.6",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/IPTV BLINK PLAYER_1.2.6_Apkpure.apk",
+    "sha256": "f7a8a9139cc5c32d840349633414d6442a0b2e572df4b0052f30607a8a0ee7fa",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.iptvBlinkPlayer;component=com.iptvBlinkPlayer/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.iptvBlinkPlayer;component=com.iptvBlinkPlayer/.ui.Splah;end"
+  },
+  {
+    "app_name": "MULTIFLIX Lite",
+    "package_name": "com.plexys.lite",
+    "version_name": "3.1.3",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/MULTIFLIX Lite C.apk",
+    "sha256": "23cbacea49e528da537f6854cf54069904f27d099b82d8c065664df366b00c53",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.plexys.lite;component=com.plexys.lite/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.plexys.lite;component=com.plexys.lite/.ui.Splah;end"
+  },
+  {
+    "app_name": "NEW MAIS 6.1",
+    "package_name": "br.topsystem.newmais2",
+    "version_name": "6.0.1",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/NEW_MAIS_6.1.apk",
+    "sha256": "c21353c9b4785260a6b658b8cdab92af9f869dd5a9ce903226340e8fc26e0fec",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=br.topsystem.newmais2;component=br.topsystem.newmais2/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=br.topsystem.newmais2;component=br.topsystem.newmais2/.ui.Splah;end"
+  },
+  {
+    "app_name": "NP TV",
+    "package_name": "com.xapp.nptv",
+    "version_name": "4.9.8",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/NP TV.apk",
+    "sha256": "e62c274a8c70a0792b215fa6f4ededb823d817f324d3c8b17da45a1cf8748a55",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.xapp.nptv;component=com.xapp.nptv/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.xapp.nptv;component=com.xapp.nptv/.ui.Splah;end"
+  },
+  {
+    "app_name": "NP Cine",
+    "package_name": "top.npcine",
+    "version_name": "1.00",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/NPCine.apk",
+    "sha256": "eb5c4499c448f558f9dd512421b1851252f9019abec0abe58e35d96dd2f085e2",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=top.npcine;component=top.npcine/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=top.npcine;component=top.npcine/.ui.Splah;end"
+  },
+  {
+    "app_name": "NPTV Lite",
+    "package_name": "com.plexys.lite",
+    "version_name": "3.1.3",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/NPTV Lite_C_sign.apk",
+    "sha256": "c848ff7092580f37827a764902d2ad230dbead4e12d2efbe045fe56527b4fd50",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.plexys.lite;component=com.plexys.lite/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.plexys.lite;component=com.plexys.lite/.ui.Splah;end"
+  },
+  {
+    "app_name": "P2Braz",
+    "package_name": "com.p2five.tv",
+    "version_name": "4.5.8",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/P2Five-4.5.8.apk",
+    "sha256": "2668fa27160fca543a8a2d857587e0dc4fc0e8c5aac5362949b3691df8bad560",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.p2five.tv;component=com.p2five.tv/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.p2five.tv;component=com.p2five.tv/.ui.Splah;end"
+  },
+  {
+    "app_name": "PopCorn Lite",
+    "package_name": "com.popcorn.liteapp",
+    "version_name": "7776.0",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/PopCorn Lite.apk",
+    "sha256": "0ab6437a5de45e427f95aef676072760882d1ced8003fc36f5965c17ec3b439d",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.popcorn.liteapp;component=com.popcorn.liteapp/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.popcorn.liteapp;component=com.popcorn.liteapp/.ui.Splah;end"
+  },
+  {
+    "app_name": "RARO OTT",
+    "package_name": "com.veloznet.stbapp",
+    "version_name": "2.4",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/RARO OTT.apk",
+    "sha256": "43cfd97b82cad24fa014fe229c6e1b0475849366e1daa8f768b6370f660b27c2",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.veloznet.stbapp;component=com.veloznet.stbapp/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.veloznet.stbapp;component=com.veloznet.stbapp/.ui.Splah;end"
+  },
+  {
+    "app_name": "Raro Lite",
+    "package_name": "com.plexys.raro",
+    "version_name": "3.1.3",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/Raro Lite.apk",
+    "sha256": "ff4fa624383b06a667584275a9236d006eb0b09eb1919a17f1bc85e5db93b963",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.plexys.raro;component=com.plexys.raro/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.plexys.raro;component=com.plexys.raro/.ui.Splah;end"
+  },
+  {
+    "app_name": "Spotify",
+    "package_name": "com.spotify.music",
+    "version_name": "8.6.0.830",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/Spotify-Premium (3).apk",
+    "sha256": "6753628e80bcb9b4b447fb44230261eb70e6cd05770385728791ee449d1f9291",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.spotify.music;component=com.spotify.music/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.spotify.music;component=com.spotify.music/.ui.Splah;end"
+  },
+  {
+    "app_name": "TDHome TV",
+    "package_name": "com.shtvreb.hometv",
+    "version_name": "7.3",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/THUNDER HOME.apk",
+    "sha256": "3876d9ffb25a7439995ea1ec704bb3f38ada2f0c303217a3f7fa0ffab4b5634c",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.shtvreb.hometv;component=com.shtvreb.hometv/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.shtvreb.hometv;component=com.shtvreb.hometv/.ui.Splah;end"
+  },
+  {
+    "app_name": "QuickSupport",
+    "package_name": "com.teamviewer.quicksupport.market",
+    "version_name": "15.43.201",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/TeamViewerQS.apk",
+    "sha256": "2094240f7ab0ddec6424af7a43e8d2323b8170b500924ec91711a2860e859ab0",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.teamviewer.quicksupport.market;component=com.teamviewer.quicksupport.market/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.teamviewer.quicksupport.market;component=com.teamviewer.quicksupport.market/.ui.Splah;end"
+  },
+  {
+    "app_name": "Thunder Lite",
+    "package_name": "com.plexys.lite",
+    "version_name": "3.1.3",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/Thunder Lite_C_sign.apk",
+    "sha256": "ef86c6421340277737007f71eed0d4aa58c72d4dd2367767e6c4c7ff1ef5dffc",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.plexys.lite;component=com.plexys.lite/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.plexys.lite;component=com.plexys.lite/.ui.Splah;end"
+  },
+  {
+    "app_name": "ViMusic",
+    "package_name": "it.vfsfitvnm.vimusic",
+    "version_name": "0.5.4",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/ViMusic_0.5.4 (1) (3).apk",
+    "sha256": "353893b95f45e3387745981f09c28c54be315d3732bbe861d08bccc560c3284f",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=it.vfsfitvnm.vimusic;component=it.vfsfitvnm.vimusic/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=it.vfsfitvnm.vimusic;component=it.vfsfitvnm.vimusic/.ui.Splah;end"
+  },
+  {
+    "app_name": "XCIPTV",
+    "package_name": "com.nathnetwork.xciptv",
+    "version_name": "6.0",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/XCIPTV PLAYER_6.0_Apkpure.apk",
+    "sha256": "f6594668e4426823ffffea45b4126186e9381010e7244e7671df7bf781298ef5",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.nathnetwork.xciptv;component=com.nathnetwork.xciptv/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.nathnetwork.xciptv;component=com.nathnetwork.xciptv/.ui.Splah;end"
+  },
+  {
+    "app_name": "Home TV",
+    "package_name": "com.brstore.hometv",
+    "version_name": "7.3",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/YOU TV Home.apk",
+    "sha256": "b47a2416ea38c1ec4e983a30eec53498c89b7c133263369df5cfc96fd8a04a99",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.brstore.hometv;component=com.brstore.hometv/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.brstore.hometv;component=com.brstore.hometv/.ui.Splah;end"
+  },
+  {
+    "app_name": "YesTV Beta",
+    "package_name": "com.yestv.beta",
+    "version_name": "5.2.3",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/YesTV Beta_5.2.3.apk",
+    "sha256": "2e65cf4311e01f8b275cd21d781444e574391e822386e7674d766861c056fbb0",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.yestv.beta;component=com.yestv.beta/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.yestv.beta;component=com.yestv.beta/.ui.Splah;end"
+  },
+  {
+    "app_name": "AnyDesk",
+    "package_name": "com.anydesk.anydeskandroid",
+    "version_name": "7.0.0",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/anydesk.apk",
+    "sha256": "8056dda7e1d745d945f7497530e16b0a85ca48843d959375f4e1aa56d53939f8",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=com.anydesk.anydeskandroid;component=com.anydesk.anydeskandroid/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=com.anydesk.anydeskandroid;component=com.anydesk.anydeskandroid/.ui.Splah;end"
+  },
+  {
+    "app_name": "Jellyfin",
+    "package_name": "org.jellyfin.androidtv",
+    "version_name": "0.12.3",
+    "download_url": "https://github.com/JoseNildo-Dev/Projetos-IPTV/raw/main/NPTV/org.jellyfin.androidtv_0.12.3.apk",
+    "sha256": "77bc1d87bb3dbf8d8953cc3b997c868596af5407494efcf429d5d9b7cea2c275",
+    "launch_intent_uri_default": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10000000;package=org.jellyfin.androidtv;component=org.jellyfin.androidtv/.ui.Splah;end",
+    "launch_intent_uri_leanback": "#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;launchFlags=0x10000000;package=org.jellyfin.androidtv;component=org.jellyfin.androidtv/.ui.Splah;end"
+  }
+  ]
+}
